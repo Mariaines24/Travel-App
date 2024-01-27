@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nearEvent"
+        android:title="Upcoming Events"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/dateRange"
+        android:title="Date Range"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/reset"
+        android:title="Reset"
+        app:showAsAction="never"/>
+
+</menu>
